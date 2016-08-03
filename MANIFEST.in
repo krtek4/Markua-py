@@ -1,0 +1,9 @@
+
+include README.md
+include LICENSE
+include .gitignore
+include Markua/__init__.py
+include Markua/blocks.py
+include Markua/dump.py
+include Markua/markua.py
+include Markua/renderer/html.py
